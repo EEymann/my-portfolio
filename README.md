@@ -15,9 +15,6 @@ _This portfolio showcases my best projects that I have been working on for three
 * _Click into the folder and open the file titled "index.html"_
 * _Enjoy my webpage!_
 
-
-_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?_
-
 ## Technologies Used
 
 _HTML, CSS, and Bootstrap_
