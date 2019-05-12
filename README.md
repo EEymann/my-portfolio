@@ -13,6 +13,7 @@ _This portfolio showcases my best projects that I have been working on for three
 * _Clone this repository_
 * _A folder titled "my-portfolio" will appear on your desktop._
 * _Click into the folder and open the file titled "index.html"_
+* _You can also checkout this webpage at https://eeymann.github.io/my-portfolio/index.html
 * _Enjoy my webpage!_
 
 ## Technologies Used
