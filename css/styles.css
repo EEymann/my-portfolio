@@ -1,3 +1,20 @@
+
+
 img.intro {
   border-radius: 50%;
+  image: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  Border: 1px solid red;
+  background-color: violet;
+  size: 40px;
+  text-align: center;
+}
+
+.highlight {
+  color: violet;
 }
