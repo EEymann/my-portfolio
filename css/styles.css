@@ -2,14 +2,14 @@
 
 img.intro {
   border-radius: 50%;
-  image: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding: 4px;
 }
 
 div {
-  Border: 1px solid red;
+  border: 1px solid red;
   background-color: violet;
   size: 40px;
   text-align: center;
@@ -17,4 +17,9 @@ div {
 
 .highlight {
   color: violet;
+  float: right;
+}
+
+body {
+  font-size: 1.5em;
 }
